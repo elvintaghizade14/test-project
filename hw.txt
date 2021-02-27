@@ -1,0 +1,8 @@
+1. JDK download and installing
+2. Environmental variable adding
+3. Git downloading and installing
+4. new GitHub account
+5. intellij IDEA Community downloading and installing
+6. Compiling and running sample java code from terminal
+7. Compiling and running sample java code on intallij IDEA
+8. Play with Git/GitHub
